@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-10 14:30+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Plugin Name\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-plugin-name-admin.php:124 admin/class-plugin-name-admin.php:125
+#: admin/class-plugin-name-admin.php:126 admin/class-plugin-name-admin.php:127
+msgid "Multiscroll"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:128
+msgid "Add New"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:129
+msgid "Add New Multiscroll"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:130
+msgid "New Multiscroll"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:131
+msgid "Edit Multiscroll"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:132
+msgid "View Multiscroll"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:133
+msgid "All Multiscroll"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:134
+msgid "Search Multiscroll"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:135
+msgid "Parent Multiscroll:"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:136
+msgid "No Multiscroll found."
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:137
+msgid "No Multiscroll found in Trash."
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:142
+msgid "Description."
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:201
+msgid "mytaxonomy"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:202 admin/class-plugin-name-admin.php:217
+msgid "mytaxonomy_term"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:203
+msgid "Search mytaxonomy"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:204
+msgid "Popular mytaxonomy"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:205
+msgid "All mytaxonomy"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:208
+msgid "Edit mytaxonomy_term"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:209
+msgid "Update mytaxonomy_term"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:210
+msgid "Add New mytaxonomy_term"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:211
+msgid "New mytaxonomy_term Name"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:212
+msgid "Separate categories with commas"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:213
+msgid "Add or remove categories"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:214
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:265
+msgid "Contact Email"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:274
+msgid "Contact Phone"
+msgstr ""

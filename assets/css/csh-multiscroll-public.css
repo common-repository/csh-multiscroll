@@ -1,0 +1,69 @@
+.cshms-content{
+    text-align: center;
+}
+.ms-left .cshms-content.cshms-same{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+.ms-right .cshms-content.cshms-same{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    width: 100%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+.cshms-row{
+    overflow: hidden;
+    position: relative;
+}
+
+@media screen and (max-width: 991px) {
+    .ms-left .cshms-content.cshms-same{
+        left: 0;
+    }
+
+    .ms-left .cshms-content{
+        position: absolute;
+        top: 50%;
+        left: 0;
+        right: 0;
+        transform: translateY(-50%);
+        z-index: 1;
+    }
+    .spot-right-side .cshms-same{
+        display: none;
+    }
+}
+
+.cshms-demo-shortcode h1{
+    font-size: 4em;
+    margin-bottom: 15px;
+}
+
+.cshms-demo-shortcode input[type="text"] {
+    width: 250px;
+    height: 30px;
+    padding-left: 15px;
+    margin: 10px 0;
+}
+
+.cshms-demo-shortcode button{
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    border-radius: 3px;
+    background: #fff;
+    color: #e7413b;
+}
+
+
